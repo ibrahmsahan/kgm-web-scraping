@@ -1,0 +1,24 @@
+C:\Users\sahan\Desktop\kgm\KGMConsole2\KGMConsole2\bin\Debug\KGMConsole2.exe.config
+C:\Users\sahan\Desktop\kgm\KGMConsole2\KGMConsole2\bin\Debug\KGMConsole2.exe
+C:\Users\sahan\Desktop\kgm\KGMConsole2\KGMConsole2\bin\Debug\KGMConsole2.pdb
+C:\Users\sahan\Desktop\kgm\KGMConsole2\KGMConsole2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\sahan\Desktop\kgm\KGMConsole2\KGMConsole2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\sahan\Desktop\kgm\KGMConsole2\KGMConsole2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\sahan\Desktop\kgm\KGMConsole2\KGMConsole2\obj\Debug\KGMConsole2.csprojResolveAssemblyReference.cache
+C:\Users\sahan\Desktop\kgm\KGMConsole2\KGMConsole2\obj\Debug\KGMConsole2.exe
+C:\Users\sahan\Desktop\kgm\KGMConsole2\KGMConsole2\obj\Debug\KGMConsole2.pdb
+C:\Users\sahan\Desktop\KGM Console\KGMConsole2\bin\Debug\KGMConsole2.exe.config
+C:\Users\sahan\Desktop\KGM Console\KGMConsole2\obj\Debug\KGMConsole2.exe
+C:\Users\sahan\Desktop\KGM Console\KGMConsole2\obj\Debug\KGMConsole2.pdb
+C:\Users\sahan\Desktop\KGM Console.2\KGMConsole2\bin\Debug\KGMConsole2.exe.config
+C:\Users\sahan\Desktop\KGM Console.2\KGMConsole2\obj\Debug\KGMConsole2.exe
+C:\Users\sahan\Desktop\KGM Console.2\KGMConsole2\obj\Debug\KGMConsole2.pdb
+C:\Users\sahan\Desktop\KGM Console.2\KGMConsole2\bin\Debug\KGMConsole2.exe
+C:\Users\sahan\Desktop\KGM Console.2\KGMConsole2\bin\Debug\KGMConsole2.pdb
+C:\Users\sahan\Desktop\KGM Console.2\KGMConsole2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\sahan\Desktop\KGM Console.2\KGMConsole2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\sahan\Desktop\KGM Console.2\KGMConsole2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\sahan\Desktop\KGM Console.2\KGMConsole2\obj\Debug\KGMConsole2.csprojResolveAssemblyReference.cache
+C:\Users\sahan\Desktop\staj biten çalışmalar\KGM Console.2-Teslim\KGMConsole2\bin\Debug\KGMConsole2.exe.config
+C:\Users\sahan\Desktop\staj biten çalışmalar\KGM Console.2-Teslim\KGMConsole2\obj\Debug\KGMConsole2.exe
+C:\Users\sahan\Desktop\staj biten çalışmalar\KGM Console.2-Teslim\KGMConsole2\obj\Debug\KGMConsole2.pdb
